@@ -1,3 +1,5 @@
+🇺🇸 **English** | 🇯🇵 [日本語](README_ja.md) 
+
 # Category Opportunity Assessment — Shopee Thailand
 
 ## 1. Project Overview
