@@ -1,4 +1,4 @@
-🇺🇸 **日本語** | 🇯🇵 [ENGLISH](README.md) 
+🇯🇵 **日本語** | 🇺🇸 [ENGLISH](README.md) 
 
 # カテゴリ機会分析 — Shopee Thailand
 
